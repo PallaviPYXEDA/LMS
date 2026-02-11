@@ -1,0 +1,24 @@
+{
+  "course": {
+      "methods": [
+        {
+          "name": "POST",
+          "function": "course",
+          "authorizer": "False"
+        },
+        {
+          "name": "GET",
+          "function": "course",
+          "authorizer": "False"
+        }
+      ]
+  },
+  "create-output-json": {
+    "methods": [
+      {
+        "name": "GET",
+        "function": "createOutputJson"
+      }
+    ]
+  }
+}
