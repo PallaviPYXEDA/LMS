@@ -1,8 +1,0 @@
-{
-    "dbInitLms": {
-      "main": "RDS/db_init.py"
-    },
-    "course": {
-      "main": "RDS/course.py"
-    }
-}

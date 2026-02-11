@@ -1,9 +1,0 @@
-{
-    "userMapping": {
-        "main": "Users/user_mapping.py",
-        "skip": "True"
-    },
-    "unifiedUsers": {
-        "main": "Users/unified_users.py"
-    }
-}
