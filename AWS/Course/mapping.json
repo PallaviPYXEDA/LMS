@@ -6,8 +6,8 @@
     {
       "Variables": 
       {
-        "PINECONE_API_KEY": "35829f14-47c5-4b16-ab8e-0c476967fca1",
-        "PINECONE_HOST": "https://aiclub-serverless-630335b.svc.aped-4627-b74a.pinecone.io"
+        "PINECONE_API_KEY": "ddd",
+        "PINECONE_HOST": "yyy"
       }
     },
     "layers": 
